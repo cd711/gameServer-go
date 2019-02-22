@@ -1,8 +1,8 @@
 package test
 
 import (
-	pb "commonlibs/proto"
 	"encoding/json"
+	pb "github.com/matchvs/gameServer-go/src/commonlibs/proto"
 	"testing"
 	"time"
 

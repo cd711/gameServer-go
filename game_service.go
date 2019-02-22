@@ -10,8 +10,8 @@
 package matchvs
 
 import (
-	"commonlibs/errors"
-	"commonlibs/servers"
+	"github.com/matchvs/gameServer-go/src/commonlibs/errors"
+	"github.com/matchvs/gameServer-go/src/commonlibs/servers"
 	"os"
 	"strings"
 

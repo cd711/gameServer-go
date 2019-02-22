@@ -9,8 +9,8 @@
 package message
 
 import (
-	pb "commonlibs/proto"
-	"commonlibs/servers"
+	pb "github.com/matchvs/gameServer-go/src/commonlibs/proto"
+	"github.com/matchvs/gameServer-go/src/commonlibs/servers"
 
 	"github.com/golang/protobuf/proto"
 	"github.com/matchvs/gameServer-go/src/defines"

@@ -1,9 +1,9 @@
 package message
 
 import (
-	pb "commonlibs/proto"
-	"commonlibs/servers"
 	"errors"
+	pb "github.com/matchvs/gameServer-go/src/commonlibs/proto"
+	"github.com/matchvs/gameServer-go/src/commonlibs/servers"
 	"sync"
 
 	"github.com/matchvs/gameServer-go/src/log"
